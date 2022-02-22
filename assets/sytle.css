@@ -3,3 +3,8 @@ section div.container-fluid {
     padding: 50px;
 }
 
+.nav-item a {
+    font-size: 1.3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
